@@ -1,5 +1,7 @@
 # graphql-cli [![npm version](https://badge.fury.io/js/graphql-cli.svg)](https://badge.fury.io/js/graphql-cli)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/graphcool/graphql-cli.svg)](https://greenkeeper.io/)
+
 🔪🥒 Swiss Army Knife for your GraphQL Project
 
 ## Features
